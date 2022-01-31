@@ -1,9 +1,9 @@
 <?php
     function Connect(){
         $server_name = "sql6.freesqldatabase.com";
-        $username = "sql6464470";
-        $password = "birm6Hqzg6";
-        $db_name = "sql6464470";
+        $username = "sql6469304";
+        $password = "FcmyfNK7rg";
+        $db_name = "sql6469304";
         try {
             $conn = new PDO("mysql:host=$server_name;dbname=$db_name", $username, $password);
             // set the PDO error mode to exception
